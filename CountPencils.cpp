@@ -20,6 +20,6 @@ int main(){
     if(aux == k)
       count++;
   }
-  std::cout << count;
+  std::cout << count << std::endl;
   return 0;
 }
